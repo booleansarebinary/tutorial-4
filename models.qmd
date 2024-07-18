@@ -1,0 +1,14 @@
+---
+title: "Models"
+format: html
+execute: 
+  echo: false
+---
+```{r}
+#| label: setup
+#| messaeg: FALSE
+
+library(tidyverse)
+```
+
+Our progress so far: We have data from a YouGov poll (March 10-12, 2024) of nearly 1600 US adult citizens. We want to see how many will support Biden in 2024.
